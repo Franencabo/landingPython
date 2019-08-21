@@ -1,0 +1,20 @@
+/* *****************************
+ +++++++ $MIXINS ++++++
+ ***************************** */
+
+/* Mixin FontFace */
+// @mixin FontFace {
+// 	@each $nombre in "acuminPro", "helvetica", "helvetica_Italic",
+// 		"helvetica_Bold"
+// 	{
+// 		@font-face {
+// 			font-family: $nombre;
+// 			font-style: normal;
+// 			font-weight: normal;
+// 			src: local($nombre),
+// 				url("../assets/fonts/#{$nombre}.woff") format("woff"),
+// 				url("../assets/fonts/#{$nombre}.woff2") format("woff2");
+// 		}
+// 	}
+// }
+
